@@ -16,3 +16,10 @@ PUSHING TO GITHUB
 3.	Git commit –m “anything”
 4.	Git push origin master
 to pull in github 
+
+
+USING GITHUB 
+1. Fork to your account
+copy clone url
+clone in nitrous 
+cd into directory 
